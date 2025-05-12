@@ -22,7 +22,7 @@
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Keratilwe-Creator/Springboot--part1.git>
 cd Springboot--part1
 ```
 
